@@ -1,0 +1,5 @@
+body{
+    /* background-color: antiquewhite; */
+    background-image: url("../img//Rectangle.svg");
+    z-index: -100;
+}
